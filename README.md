@@ -1,5 +1,7 @@
 # Finance, Bank Loan of Customers
 
+<img align="right" width="500" height="400" src="https://github.com/piiyuush/Finance--Bank-Loan-of-Customers/blob/main/f.png?raw=true">
+
 ## PRIMARY OBJECTIVE
 * Analyze two datasets provided in CSV format, each containing 39,717 rows, for a Bank Loan of Customers project.
 * Assess the growth experienced by the bank in terms of loans within the specified years.
@@ -7,10 +9,6 @@
 * Develop interactive dashboards using Tableau and Power BI to visualize key insights.
 * Perform data normalization, calculations, and merging to present findings effectively.
 * Achieve the goal of examining the bank's loan growth trends over the given period.
-
-
-<img align="right" width="500" height="400" src="">
-
 
 ## Detailed Analysis 
 * Analyzed loan data for diverse customer groups, focusing on varied grades and sub-grade levels.

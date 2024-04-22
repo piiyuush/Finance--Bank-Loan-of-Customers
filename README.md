@@ -9,7 +9,7 @@
 * Achieve the goal of examining the bank's loan growth trends over the given period.
 
 
-<img align="right" width="500" height="400" src="[https://github.com/piiyuush/Cyclistic-Bike-Sharing-Service/blob/main/cyclistic.jpg?raw=true](https://raw.githubusercontent.com/piiyuush/Finance--Bank-Loan-of-Customers/main/Finance.webp)">
+<img align="right" width="500" height="400" src="">
 
 
 ## Detailed Analysis 

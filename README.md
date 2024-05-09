@@ -2,7 +2,7 @@
 
 
 
-<img align="right" width="500" height="400" src="https://github.com/piiyuush/Finance--Bank-Loan-of-Customers/blob/main/f.png?raw=true">
+<img align="right" width="500" height="400" src="https://github.com/piiyuush/Finance--Bank-Loan-of-Customers/blob/main/pic/b.jpg?raw=true">
 
 ## PRIMARY OBJECTIVE
 * Analyze two datasets provided in CSV format, each containing 39,717 rows, for a Bank Loan of Customers project.
